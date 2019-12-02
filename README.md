@@ -16,7 +16,7 @@ after sorting,
        4 caabr a
        5 racaa b
        
-       next[] = {1, 3, 5, 2, 4, 0}
+       next[] = {}
        x = 1;
        
  get the last column, T = "caraab"
