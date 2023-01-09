@@ -1,2 +1,2 @@
 # Burrows-Wheeler-Algorithm
-The combination of Burrows-Wheeler Transform, MTF(Move to Front), Huffman Code. 
+The combination of Burrows-Wheeler Transform, MTF(Move to Front), Huffman Code. Good 
